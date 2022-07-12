@@ -1,1 +1,1 @@
-# Artificial-Intelligence-CSS422
+# Artificial-Intelligence-CSE422
